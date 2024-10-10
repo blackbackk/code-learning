@@ -3,4 +3,4 @@ class makeuppercase{
   public static String MakeUpperCase(String str){
     return str.toUpperCase(); 
   }
-}
+} 

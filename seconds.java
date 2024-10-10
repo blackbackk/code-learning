@@ -5,7 +5,7 @@ public class seconds {
     int segundos_restantes;
     minutos = segundos_iniciales/60;
     segundos_restantes = segundos_iniciales% 60;
-    System.out.println(minutos +""+ segundos_restantes);
+    System.out.println(minutos +""+ segundos_restantes);   
 
   }
 }

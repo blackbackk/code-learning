@@ -9,6 +9,6 @@ class Kata {
         counter++;
         frase += counter+" sheep...";
       }
-    return frase;
+    return frase; 
   }    
 }
